@@ -77,7 +77,7 @@ zstyle ':omz:update' mode auto      # update automatically without asking
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(aliases colorize cp deno emoji emoji-clock extract gh git git-auto-fetch rsync systemadmin vscode zsh-autosuggestions zsh-syntax-highlighting z)
+plugins=(aliases colorize cp deno emoji emoji-clock extract gh git git-auto-fetch rsync systemadmin tmux vscode zsh-autosuggestions zsh-syntax-highlighting z)
 
 export FZF_BASE="~/.fzf"
 # export FZF_DEFAULT_COMMAND='/usr/bin/fzf'
