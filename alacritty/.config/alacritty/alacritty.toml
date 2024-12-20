@@ -27,3 +27,6 @@ style = "Italic"
 # family = "MesloLGS Nerd Font Mono"
 family = "CaskaydiaCove Nerd Font"
 style = "Regular"
+
+[window]
+opacity = 0.8
